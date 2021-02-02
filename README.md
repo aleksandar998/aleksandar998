@@ -4,7 +4,7 @@ Welcome 👋
 This is my GitHub profile! 
 Below you can see my inforamtions and some of my projects:
 
- 💻 Software Engineer at [Engineering Software Lab](https://www.eng.it/en/)
+ 💻 Software Engineer at [Engineering Ingegneria Informatica S.p.a.](https://www.eng.it/en/)
 	
  📚🎓 Bachelor's degree in Information Technology
 	
