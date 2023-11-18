@@ -10,7 +10,7 @@
 
 <div align="center">
  
- <i>:rocket:</i> I’m currently working as **Software Engineer as JAGGAER**
+ <i>:rocket:</i> I’m currently working as **Software Engineer at JAGGAER**
  
  </div>
  
